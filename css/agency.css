@@ -512,8 +512,8 @@ ul.social-buttons {
       background-color: #fed136; }
 
 .curvedbg {
-  border-bottom-left-radius: 50%;
-  border-bottom-right-radius: 50%;
+  border-bottom-left-radius: 400px 50%;
+  border-bottom-right-radius: 400px 50%;
     z-index: 1000;
     position: relative;
 }

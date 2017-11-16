@@ -48,3 +48,11 @@
   })
 
 })(jQuery); // End of use strict
+
+set var screen=0 && if var screen > 50;
+addclass(.shrink)
+Where shrink {
+    background-image: transparent;
+    Height: 200px;
+    position: fixed;
+}
